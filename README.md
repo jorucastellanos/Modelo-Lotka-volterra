@@ -1,6 +1,7 @@
 # Modelo-Lotka-volterra
 Este repositorio contiene la implementación del modelo Lotka-Volterra con ayuda del lenguaje de programación Python, mediante un sistema de ecuaciones diferenciales que describe la dinámica de un sistema depredador-presa.
 El modelo Lotka-Volterra es representado por un sistema de Ecuaciones Diferenciales Ordinarias que describe la interacción entre dos especies: presa y depredador. Su forma básica es:
+
 $$
 \frac{dx}{dt} = \alpha x - \beta xy
 $$
